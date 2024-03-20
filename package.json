@@ -36,7 +36,7 @@
   },
   "dependencies": {
     "code-push": "^4.2.0",
-    "glob": "^7.1.7",
+    "glob": "^10.3.10",
     "hoist-non-react-statics": "^3.3.2",
     "inquirer": "^8.1.5",
     "plist": "^3.0.4",
